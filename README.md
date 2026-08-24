@@ -1,5 +1,7 @@
 # Average Filter Image Processing
 
+![Blur Image](blur.jpg)
+
 ## Aim
 
 To apply average filtering on a grayscale image using different kernel sizes and compare the results.
