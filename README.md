@@ -1,6 +1,7 @@
 # Average Filter Image Processing
 
-![Blur Image](blur.jpg)
+<img width="883" height="812" alt="image" src="https://github.com/user-attachments/assets/7152784b-aa66-4aab-b987-d300288c0b39" />
+
 
 ## Aim
 
